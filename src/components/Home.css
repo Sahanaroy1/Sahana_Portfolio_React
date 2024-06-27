@@ -1,0 +1,32 @@
+.home-section {
+    background-image: url('../assets/home_background.jpg');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+    height: 400px;
+}
+img.mainPage_img {
+    border-radius: 0%;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+            transition:         transform .8s ease-in-out;
+  }
+  
+  img.mainPage_img:hover {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+img.mainPage_img {
+
+  
+  height: 300px;
+    width: 300px; /* better than aspect-ratio in case the image has a height attribute */
+  box-sizing: border-box;
+  transition: .5s;
+  cursor: pointer;
+}
+img:hover {
+  padding-left: var(--s);
+}
+
+
