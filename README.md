@@ -32,3 +32,6 @@ Snippet of the portfolio:
 
 
 <img width="1436" alt="Projects" src="https://github.com/Sahanaroy1/Sahana_Portfolio_React/assets/127791384/b20a2afd-5a54-40c8-9bf9-e72a477462b5">
+
+
+<img width="1423" alt="Contact" src="https://github.com/Sahanaroy1/Sahana_Portfolio_React/assets/127791384/df5ce786-511e-49aa-bae0-906fb2910686">
