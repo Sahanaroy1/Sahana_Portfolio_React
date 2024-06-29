@@ -23,3 +23,6 @@ https://667ff70acaa5b71d1af0dba8--sahanaroy.netlify.app/
 
 Snippet of the portfolio:
 <img width="1434" alt="Home" src="https://github.com/Sahanaroy1/Sahana_Portfolio_React/assets/127791384/c7f8070e-9526-429f-b22b-420c95b602fa">
+
+
+<img width="1430" alt="About me" src="https://github.com/Sahanaroy1/Sahana_Portfolio_React/assets/127791384/a32bed2d-5c5d-4388-850a-fb21cd2932bd">
