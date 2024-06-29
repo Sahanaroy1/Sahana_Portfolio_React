@@ -29,23 +29,7 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
-.resume-section{
-    padding-top: 60px;
-    text-align: center;
-}
-.resume-section h3 {
-  margin-top: 20px;
-}
 
-.resume-section p,
-.resume-section ul {
-  margin: 10px 0;
-}
-
-.resume-section ul {
-  list-style-type: disc;
-  padding-left: 20px;
-}
 
   
   form {

@@ -20,7 +20,7 @@ img.mainPage_img {
 
   
   height: 300px;
-    width: 300px; /* better than aspect-ratio in case the image has a height attribute */
+  width: 300px; 
   box-sizing: border-box;
   transition: .5s;
   cursor: pointer;

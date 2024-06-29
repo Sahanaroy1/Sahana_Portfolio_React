@@ -8,8 +8,6 @@ import projectFour from '../assets/Book_search.png';
 import projectFive from '../assets/Logo_generator.png';
 import projectSix from '../assets/Flavor_quest.png';
 
-
-
 const projects = [
   {
     name: "Weather Forecast App ",
@@ -32,7 +30,7 @@ const projects = [
     description:
       "My first portfolio built with HTML, CSS and Javascript",
     imageUrl: projectThree,
-    link: "https://github.com/Sahanaroy1/Sahana.Roy_Portfolio",
+    link: "https://sahanaroy1.github.io/Sahana.Roy_Portfolio/",
     gitHub: "https://github.com/Sahanaroy1/Sahana.Roy_Portfolio",
    
   },
