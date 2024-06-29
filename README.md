@@ -26,3 +26,6 @@ Snippet of the portfolio:
 
 
 <img width="1430" alt="About me" src="https://github.com/Sahanaroy1/Sahana_Portfolio_React/assets/127791384/a32bed2d-5c5d-4388-850a-fb21cd2932bd">
+
+
+<img width="1434" alt="Resume" src="https://github.com/Sahanaroy1/Sahana_Portfolio_React/assets/127791384/2e120b24-042b-46e4-b053-d1cbb5f48ba4">
